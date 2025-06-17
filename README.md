@@ -13,12 +13,12 @@
 
 ## Máster en profesorado de Enseñanza Secundaria Obligatoria y Bachillerato, Formación Profesional y enseñanza de idiomas
 
-**Título del proyecto**: Una asignatura diferente  
-**Autor**: Francisco Jesús Delgado Almirón  
-**Tutor**: Antonio Gabriel López Herrera  
-**Línea de trabajo propuesta**: Innovación educativa, diseño de materiales didácticos  
-**Curso**: 2014/2015  
-**Convocatoria**: Julio  
+- **Título del proyecto**: Una asignatura diferente  
+- **Autor**: Francisco Jesús Delgado Almirón  
+- **Tutor**: Antonio Gabriel López Herrera  
+- **Línea de trabajo propuesta**: Innovación educativa, diseño de materiales didácticos  
+- **Curso**: 2014/2015  
+- **Convocatoria**: Julio  
 
 ## Tecnologías utilizadas
 
