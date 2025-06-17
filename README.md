@@ -2,7 +2,7 @@
 ![LibreOffice](https://img.shields.io/badge/Herramienta-LibreOffice-18A303?logo=libreoffice&logoColor=white)
 ![Moodle](https://img.shields.io/badge/Plataforma-Moodle-F98012?logo=moodle&logoColor=white)
 
-# Proyecto de Fin de Máster
+# Proyecto de fin de máster (Máster en profesorado de Enseñanza Secundaria Obligatoria y Bachillerato, Formación Profesional y enseñanza de idiomas)
 
 <h2>
   Escuela de PostGrado - Universidad de Granada
@@ -10,8 +10,6 @@
        alt="UGR logo" 
        style="vertical-align: middle; margin-right: 10px; width: 225px; height: 100px; "/>
 </h2>
-
-## Máster en profesorado de Enseñanza Secundaria Obligatoria y Bachillerato, Formación Profesional y enseñanza de idiomas
 
 - **Título del proyecto**: Una asignatura diferente  
 - **Autor**: Francisco Jesús Delgado Almirón  
